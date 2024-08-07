@@ -1,7 +1,4 @@
-# Hi there, I'm Naeem 👋
-
-## About Me
-I'm a junior MERN stack developer with a passion for creating web applications and learning new technologies.
+<img src="https://raw.githubusercontent.com/naeemul-online/naeemul-online/master/naeemul-online-cover.png" alt="banner that says Naeemul - MERN stack web developrer, content creator and community organizer alongside a cartoon illustration of Naeem">
 
 ## Skills
 - 🛠 **Languages:** JavaScript, HTML, CSS
@@ -10,22 +7,12 @@ I'm a junior MERN stack developer with a passion for creating web applications a
 - 🗄️ **Databases:** MongoDB, SQL
 - 💻 **Tools:** Git, GitHub, VS Code
 
-## Projects
-### [Project 1 Name](https://github.com/yourusername/project1)
-![Project 1 Screenshot](https://via.placeholder.com/150)
-Description of Project 1.
-
-### [Project 2 Name](https://github.com/yourusername/project2)
-![Project 2 Screenshot](https://via.placeholder.com/150)
-Description of Project 2.
-
 ## Contact Me
 - 📧 [Email](naeemul.online@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/naeemul-online)
 - 🌐 [Personal Website](https://naeemul-online.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naeemul-online&show_icons=true)
 
-## Fun Facts
-- 🌍 I love traveling and exploring new places.
-- 🎮 I'm a big fan of video games.
+
+![Developer Gif](https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=790b7611z2kjw2i4n3mcdethfzl4ypsrrmu6dbeg1uudyy7a&ep=v1_gifs_search&rid=giphy.gif&ct=g)
