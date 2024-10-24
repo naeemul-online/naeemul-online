@@ -20,7 +20,7 @@ Feel free to connect with me – I'm always open to collaborations and new chall
 ## Contact Me
 - 📧 [Email](naeemul.online@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/naeemul-online)
-- 🌐 [Personal Website](https://naeemul-online.com)
+- 🌐 [Personal Website](https://naeemul-portfolio.netlify.app)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naeemul-online&show_icons=true)
 
