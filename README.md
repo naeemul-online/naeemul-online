@@ -1,31 +1,57 @@
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="developer gif showcasing web development skills">
+# Naeemul's Web Development Portfolio
+
+---
 
 ## About Me
 
-Hello! I'm Naeemul, a passionate web developer currently completing a web development course from Programming Hero. My journey in web development has equipped me with a strong skill set in various technologies, including:
+Hello! I'm **Naeemul**, a passionate **Full-Stack Web Developer** with expertise in:
 
-- **Tailwind CSS**: Crafting beautiful, responsive user interfaces with efficiency and ease.
-- **JavaScript (JS)**: Building dynamic and interactive web applications.
-- **React**: Developing scalable and high-performance front-end applications.
-- **Node.js**: Creating server-side applications with robust back-end functionality.
-- **MongoDB**: Managing databases for data-driven applications.
+- **JavaScript**: Building dynamic web experiences.
+- **Node.js**: Developing powerful back-end applications.
+- **React**: Crafting smooth and interactive user interfaces.
+- **Next.js**: Advanced routing and server-side rendering.
+- **Tailwind CSS**: Crafting modern, responsive designs.
+- **NextAuth**: Secure authentication for applications.
+- **MongoDB**: Handling data for scalable apps.
+- **Mongoose**: Schema-based data modeling.
 
-I'm always eager to learn and grow, continuously seeking opportunities to expand my knowledge and improve my skills. Check out my repositories to see some of the projects I've been working on!
+I’m constantly learning and exploring new technologies to enhance my skills. Check out my repositories to see some of the projects I've worked on!
 
-Feel free to connect with me – I'm always open to collaborations and new challenges!
+---
 
-## Skills
+## Skills & Technologies
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+- **JavaScript**
+- **React**
+- **Node.js**
+- **Next.js**
+- **MongoDB**
+- **Tailwind CSS**
+- **NextAuth**
 
-## Contact Me
+---
 
-- 📧 [Email](mailto:naeemul.online@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/naeemul-online)
-- 🌐 [Personal Website](https://naeemul-portfolio.netlify.app)
+## Connect with Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naeemul-online&show_icons=true)
+- 📧 **Email**: [naeemul.online@gmail.com](mailto:naeemul.online@gmail.com)
+- 💼 **LinkedIn**: [Naeemul LinkedIn](https://www.linkedin.com/in/naeemul-online)
+- 🌐 **Personal Website**: [Naeemul Portfolio](https://naeemul-portfolio.netlify.app)
 
-![Developer Gif](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naeemul-online&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+---
+
+## Current Projects
+
+- Building a **Full-Stack E-commerce Platform**.
+- Exploring **TypeScript** for more scalable solutions.
+
+Feel free to check out my repositories and stay tuned for updates!
+
+---
+
+Thanks for visiting! 🚀
