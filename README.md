@@ -1,6 +1,4 @@
-# Naeemul's Web Development Portfolio
 
----
 
 ## About Me
 
